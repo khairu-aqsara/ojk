@@ -1,0 +1,20 @@
+{
+   "data":[
+      {
+         "MonthCode":"3",
+         "MonthName":"Maret"
+      },
+      {
+         "MonthCode":"6",
+         "MonthName":"Juni"
+      },
+      {
+         "MonthCode":"9",
+         "MonthName":"September"
+      },
+      {
+         "MonthCode":"12",
+         "MonthName":"Desember"
+      }
+   ]
+}

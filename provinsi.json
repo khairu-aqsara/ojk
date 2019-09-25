@@ -1,0 +1,144 @@
+{
+   "data":[
+      {
+         "ProvinceCode":"01",
+         "ProvinceName":"Provinsi Jawa Barat"
+      },
+      {
+         "ProvinceCode":"02",
+         "ProvinceName":"Provinsi Banten"
+      },
+      {
+         "ProvinceCode":"03",
+         "ProvinceName":"Provinsi DKI Jakarta"
+      },
+      {
+         "ProvinceCode":"05",
+         "ProvinceName":"Provinsi D.I Yogyakarta"
+      },
+      {
+         "ProvinceCode":"09",
+         "ProvinceName":"Provinsi Jawa Tengah"
+      },
+      {
+         "ProvinceCode":"12",
+         "ProvinceName":"Provinsi Jawa Timur"
+      },
+      {
+         "ProvinceCode":"23",
+         "ProvinceName":"Provinsi Bengkulu"
+      },
+      {
+         "ProvinceCode":"31",
+         "ProvinceName":"Provinsi Jambi"
+      },
+      {
+         "ProvinceCode":"32",
+         "ProvinceName":"Provinsi NAD"
+      },
+      {
+         "ProvinceCode":"33",
+         "ProvinceName":"Provinsi Sumatera Utara"
+      },
+      {
+         "ProvinceCode":"34",
+         "ProvinceName":"Provinsi Sumatera Barat"
+      },
+      {
+         "ProvinceCode":"35",
+         "ProvinceName":"Provinsi Riau"
+      },
+      {
+         "ProvinceCode":"36",
+         "ProvinceName":"Provinsi Sumatera Selatan"
+      },
+      {
+         "ProvinceCode":"37",
+         "ProvinceName":"Provinsi Kep. Bangka Belitung"
+      },
+      {
+         "ProvinceCode":"38",
+         "ProvinceName":"Provinsi Kep. Riau"
+      },
+      {
+         "ProvinceCode":"39",
+         "ProvinceName":"Provinsi Lampung"
+      },
+      {
+         "ProvinceCode":"51",
+         "ProvinceName":"Provinsi Kalimantan Selatan"
+      },
+      {
+         "ProvinceCode":"53",
+         "ProvinceName":"Provinsi Kalimantan Barat"
+      },
+      {
+         "ProvinceCode":"54",
+         "ProvinceName":"Provinsi Kalimantan Timur"
+      },
+      {
+         "ProvinceCode":"55",
+         "ProvinceName":"Provinsi Kalimantan Utara"
+      },
+      {
+         "ProvinceCode":"58",
+         "ProvinceName":"Provinsi Kalimantan Tengah"
+      },
+      {
+         "ProvinceCode":"60",
+         "ProvinceName":"Provinsi Sulawesi Tengah"
+      },
+      {
+         "ProvinceCode":"61",
+         "ProvinceName":"Provinsi Sulawesi Selatan"
+      },
+      {
+         "ProvinceCode":"62",
+         "ProvinceName":"Provinsi Sulawesi Utara"
+      },
+      {
+         "ProvinceCode":"63",
+         "ProvinceName":"Provinsi Gorontalo"
+      },
+      {
+         "ProvinceCode":"64",
+         "ProvinceName":"Provinsi Sulawesi Barat"
+      },
+      {
+         "ProvinceCode":"69",
+         "ProvinceName":"Provinsi Sulawesi Tenggara"
+      },
+      {
+         "ProvinceCode":"71",
+         "ProvinceName":"Provinsi Nusa Tenggara Barat"
+      },
+      {
+         "ProvinceCode":"72",
+         "ProvinceName":"Provinsi Bali"
+      },
+      {
+         "ProvinceCode":"74",
+         "ProvinceName":"Provinsi Nusa Tenggara Timur"
+      },
+      {
+         "ProvinceCode":"81",
+         "ProvinceName":"Provinsi Maluku"
+      },
+      {
+         "ProvinceCode":"82",
+         "ProvinceName":"Provinsi Papua"
+      },
+      {
+         "ProvinceCode":"83",
+         "ProvinceName":"Provinsi Maluku Utara"
+      },
+      {
+         "ProvinceCode":"84",
+         "ProvinceName":"Provinsi Papua Barat"
+      },
+      {
+         "ProvinceCode":"99",
+         "ProvinceName":"Proprinsi Di Luar Indonesia"
+      }
+   ]
+}

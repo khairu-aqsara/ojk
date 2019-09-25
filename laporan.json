@@ -1,0 +1,24 @@
+{
+   "data":[
+      {
+         "kode":"1",
+         "id":"BPK-900-000001",
+         "text":"Laporan Neraca"
+      },
+      {
+         "kode":"2",
+         "id":"BPK-900-000002",
+         "text":"Laporan Laba Rugi"
+      },
+      {
+         "kode":"3",
+         "id":"BPK-900-000003",
+         "text":"Laporan Komitmen dan Kontijensi"
+      },
+      {
+         "kode":"4",
+         "id":"BPK-900-000004",
+         "text":"Laporan Informasi Lainnya"
+      }
+   ]
+}
